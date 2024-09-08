@@ -180,15 +180,15 @@ export const skills = [
       },
       {
         name: "Bash",
-        image:"/opencv.png",
+        image:"/bash.png",
       },
       {
-        name: "Jupiter Notebooks",
-        image:"/opencv.png",
+        name: "Jupyter Notebook",
+        image:"/jupyter.png",
       },
       {
         name: "PyCharm",
-        image:"/opencv.png",
+        image:"/pycharm.png",
       },
     ],
   },
@@ -375,16 +375,15 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Login and Security System",
+    title: "Ordering Application",
     date: "Feb 2024",
     description:
-      "A simple login system using C++",
+      "Java Swing application with GUI to present an odering system.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["C++"],
-    category: "other",
-    github: "https://github.com/Chanelmorgan/LoginInSystem",
-    webapp: "https://github.com/Chanelmorgan/LoginInSystem",
+      "/coffee.png",
+    category: "java app",
+    github: "https://github.com/Chanelmorgan/BasicCoffeeShop",
+    webapp: "https://github.com/Chanelmorgan/BasicCoffeeShop",
   },
   {
     id: 6,
@@ -393,7 +392,7 @@ export const projects = [
     description:
       "Flappy Bird game that uses Neuroevolution of Augmenting Topologies (NEAT), an evolutionary algorithm that trains an AI to play a game through multiple iterations.",
     image:
-      "/",
+      "/flappy.png",
     tags: ["Python", "Machine Learning"],
     category: "python app",
     github: "https://github.com/Chanelmorgan/FlappyBird/tree/AI_flappyBird",
