@@ -68,7 +68,7 @@ export const skills = [
       },
       {
         name: "C/C++",
-        image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
+        image: "/C.png",
       },
       {
         name: "Python",
