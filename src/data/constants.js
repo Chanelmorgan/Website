@@ -2,6 +2,7 @@ export const Bio = {
   name: "Chanel Morgan",
   roles: [
     "Software Developer",
+    "Web Developer",
     "Java Developer",
     "Programmer",
   ],
@@ -55,7 +56,7 @@ export const skills = [
       {
         name: "Tailwind",
         image:
-          "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
+          "/tailwind.png",
       },
     ],
   },
@@ -175,7 +176,19 @@ export const skills = [
       },
       {
         name: "OpenCV",
-        image:"/svn.png",
+        image:"/opencv.png",
+      },
+      {
+        name: "Bash",
+        image:"/opencv.png",
+      },
+      {
+        name: "Jupiter Notebooks",
+        image:"/opencv.png",
+      },
+      {
+        name: "PyCharm",
+        image:"/opencv.png",
       },
     ],
   },
@@ -313,7 +326,7 @@ export const projects = [
     description:
       "Designed and developed a program that uses the computer web camera a reference image to recognize faces.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "/face.png",
     tags: [
       "Python",
       "OpenCV",
@@ -329,7 +342,7 @@ export const projects = [
     description:
       "A point and click Adventure game built only with Java",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "/click.png",
     tags: ["Java", "Swing"],
     category: "java app",
     github: "https://github.com/Chanelmorgan/PointandClickAdventureGame",
@@ -342,8 +355,8 @@ export const projects = [
     description:
       "A 2D game created only using Java.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Java", "Swing", "Room Database", "Google Drive Cloud API"],
+      "/2d.png",
+    tags: ["Java", "Swing"],
     category: "java app",
     github: "https://github.com/Chanelmorgan/2DJavaGame",
     webapp: "https://github.com/Chanelmorgan/2DJavaGame",
@@ -355,15 +368,14 @@ export const projects = [
     description:
       "App that allows the users to play balckjack against computer with a visual interface",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Java", "Swing"],
+      "/black_jack.png",
     category: "java app",
     github: "https://github.com/Chanelmorgan/BlackjackWithGUI",
     webapp: "https://github.com/Chanelmorgan/BlackjackWithGUI",
   },
   {
     id: 5,
-    title: "Login System",
+    title: "Login and Security System",
     date: "Feb 2024",
     description:
       "A simple login system using C++",
@@ -394,9 +406,8 @@ export const projects = [
     description:
       "Python project that uses pygame and real orbital physics to simulate the orbits of a few of the planets in our solar system.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Python", "Physics", "Pygame"],
-    category: "Python app",
+      "/planet.png",
+    category: "python app",
     github: "https://github.com/Chanelmorgan/PlanetSimulation",
     webapp: "https://github.com/Chanelmorgan/PlanetSimulation",
   },
