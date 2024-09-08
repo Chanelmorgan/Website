@@ -369,6 +369,7 @@ export const projects = [
       "App that allows the users to play balckjack against computer with a visual interface",
     image:
       "/black_jack.png",
+      tags: ["Java", "Swing"],
     category: "java app",
     github: "https://github.com/Chanelmorgan/BlackjackWithGUI",
     webapp: "https://github.com/Chanelmorgan/BlackjackWithGUI",
@@ -381,6 +382,7 @@ export const projects = [
       "Java Swing application with GUI to present an odering system.",
     image:
       "/coffee.png",
+      tags: ["Java", "Swing"],
     category: "java app",
     github: "https://github.com/Chanelmorgan/BasicCoffeeShop",
     webapp: "https://github.com/Chanelmorgan/BasicCoffeeShop",
@@ -406,6 +408,7 @@ export const projects = [
       "Python project that uses pygame and real orbital physics to simulate the orbits of a few of the planets in our solar system.",
     image:
       "/planet.png",
+      tags: ["Python", "Pygame"],
     category: "python app",
     github: "https://github.com/Chanelmorgan/PlanetSimulation",
     webapp: "https://github.com/Chanelmorgan/PlanetSimulation",
