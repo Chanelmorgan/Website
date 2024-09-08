@@ -27,16 +27,22 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
           }
           <Divider />
-          {toggle === 'android app' ?
-            <ToggleButton active value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
+          {toggle === 'java app' ?
+            <ToggleButton active value="java app" onClick={() => setToggle('java app')}>JAVA APP'S</ToggleButton>
             :
-            <ToggleButton value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
+            <ToggleButton value="java app" onClick={() => setToggle('java app')}>JAVA APP'S</ToggleButton>
           }
           <Divider />
-          {toggle === 'machine learning' ?
-            <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+          {toggle === 'python app' ?
+            <ToggleButton active value="python app" onClick={() => setToggle('python app')}>PYTHON APP'S</ToggleButton>
             :
-            <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+            <ToggleButton value="python app" onClick={() => setToggle('python app')}>PYTHON APP'S</ToggleButton>
+          }
+          <Divider />
+          {toggle === 'other' ?
+            <ToggleButton active value="other" onClick={() => setToggle('other')}>OTHER APP'S</ToggleButton>
+            :
+            <ToggleButton value="other" onClick={() => setToggle('other')}>OTHER APP'S</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>
