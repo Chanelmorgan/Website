@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Chanelmorgan",
   resume:
-    "https://drive.google.com/file/d/1-WigX_lzB4441xaD7L1q-cqE_R1E66QF/view?usp=sharing",
+    "https://drive.google.com/file/d/16xYYRy0aRZhI6fVsWnnD-zGqT6M-rWGN/view?usp=sharing",
   linkedin: "www.linkedin.com/in/chanelmorgan",
  
 };
