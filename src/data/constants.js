@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a driven and adaptable individual, excited to embrace new challenges. Passionate about learning, I am committed to delivering exceptional results. With a positive outlook and a growth-oriented mindset, I am eager to contribute meaningfully and accomplish impactful goals.”",
   github: "https://github.com/Chanelmorgan",
   resume:
     "https://drive.google.com/file/d/16xYYRy0aRZhI6fVsWnnD-zGqT6M-rWGN/view?usp=sharing",
