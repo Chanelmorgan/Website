@@ -197,7 +197,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "/cgi.png",
+    img: "/cgi-logo.png",
     role: "Technology Graduate",
     company: "CGI Space, Defense and Intelligence",
     date: "August 2025 - Present",

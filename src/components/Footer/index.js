@@ -102,7 +102,7 @@ function Footer() {
           
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Chanel Morgan. All rights reserved.
+          &copy; 2025 Chanel Morgan. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
