@@ -195,10 +195,12 @@ export const ResumeButton = styled.a`
     filter: brightness(1);
     }    
     
-    
-    @media (max-width: 640px) {
-        padding: 12px 0;
+  padding: 16px 24px;
+
+  @media (max-width: 640px) {
+        padding: 12px 20px;
         font-size: 18px;
-    } 
+  }
+  
 
 `;
