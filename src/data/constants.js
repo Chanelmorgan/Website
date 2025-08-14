@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Chanel Morgan",
   roles: [
-    "Software Developer",
+    "Software Engineer",
     "Web Developer",
     "Java Developer",
     "Programmer",
@@ -221,8 +221,8 @@ export const experiences = [
     img: "/mcd.webp",
     role: "Crew Member",
     company: "McDonald's",
-    date: "July 2019 - Present",
-    desc: "Working as a team in a fast paced and high pressure environment, while maintaining high customer satisfaction and order accuracy.",
+    date: "July 2019 - August 2025",
+    desc: "Worked as a team in a fast paced and high pressure environment, while maintaining high customer satisfaction and order accuracy.",
     skills: [
       "Communication",
       "Leadership",
@@ -243,7 +243,7 @@ export const experiences = [
     role: "Teaching Assistant",
     company: "University of East Anglia",
     date: "Sep 2024 - Present",
-    desc: "Provding assistant to students on topics such as agile, waterfall, use cases, requirements, ethics and security.",
+    desc: "Assisted students on topics such as agile, waterfall, use cases, requirements, ethics and security.",
     skills: [
       "Leadership",
       "Time Management",
@@ -260,8 +260,8 @@ export const education = [
     img: "/uea.webp",
     school: "University of East Anglia, Norwich",
     date: "Sep 2021 - Jun 2025",
-    grade: "Predicted 1st",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science at UEA. I have completed 3 years, and are currently in my final year. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    grade: "First Class",
+    desc: "Graduated with a Bachelor's degree in Computer Science from UEA, including a year in industry. My studies covered Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among other areas.",
     degree: "Bachelor of Computing Science (Hons) with a year in industry",
   },
   {
@@ -279,7 +279,7 @@ export const education = [
     school: "Lynn Grove Academy, Great Yarmouth",
     date: "Sep 2014 - Jul 2019",
     grade: "Mathematics: 8, Science: 9-9, English language: 7, English literature: 7, Business studies: 8, Geography: 8, Photography: 9",
-    desc: " I compeleted my GCSE's, where I focused on maths and science.",
+    desc: " I completed my GCSE's, where I focused on maths and science.",
     degree: "GCSE's",
   },
 ];
@@ -307,7 +307,7 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Hair Steps Website",
+    title: "Harmony Steps Dance Website",
     date: "Sep 2024",
     description:
       "Developed a website for a local dance company, implementing Google API. Developed a responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
