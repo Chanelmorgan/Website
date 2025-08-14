@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a driven and adaptable professional with a passion for continuous learning and problem-solving. I thrive on new challenges and am committed to delivering high-quality results. With a positive outlook and a growth mindset, I aim to contribute meaningfully and make a lasting impact in every project I undertake.",
+    "I am a driven and adaptable software engineer with a passion for building impactful, user-focused applications. With experience in agile development, automation, and full-stack web solutions, I thrive in fast-paced environments that demand creativity and problem-solving. My projects—from AI-powered games to business websites—reflect my commitment to delivering high-quality, efficient, and innovative solutions.",
   github: "https://github.com/Chanelmorgan",
   resume:
     "https://drive.google.com/file/d/16xYYRy0aRZhI6fVsWnnD-zGqT6M-rWGN/view?usp=sharing",
@@ -222,7 +222,7 @@ export const experiences = [
     role: "Software Developer Intern",
     company: "Airbus Defense and Space",
     date: "July 2023 - August 2024",
-    desc: "Working in an scrum team, developing software using Java, and streamlining the process with automation.",
+    desc: "Developed and optimised Java-based applications within an agile scrum team, automating critical workflows to reduce manual processing time by 40%. Enhanced system efficiency, contributed to multiple cross-functional projects, and collaborated closely with engineers to deliver high-quality, scalable solutions.",
     skills: [
       "Docker",
       "Java",
@@ -282,7 +282,7 @@ export const education = [
     school: "University of East Anglia, Norwich",
     date: "Sep 2021 - Jun 2025",
     grade: "First Class",
-    desc: "Graduated with a Bachelor's degree in Computer Science from UEA, including a year in industry. My studies covered Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among other areas.",
+    desc: "Graduated with First Class Honours in Computer Science, including a year-long industry placement at Airbus Defence and Space. Completed advanced coursework in algorithms, databases, operating systems, and networks, and developed a final-year project implementing real-time face detection using Python and OpenCV.",
     degree: "Bachelor of Computing Science (Hons) with a year in industry",
   },
   {
@@ -291,7 +291,7 @@ export const education = [
     school: "East Norfolk Sixth Form College, Great Yarmouth",
     date: "Sep 2019 - Jun 2021",
     grade: "Mathematics: A, Biology: A, Chemistry: B",
-    desc: "I completed my A levels, where I further studied maths and science.",
+    desc: "Achieved strong A-level results in Mathematics, Biology, and Chemistry, further developing my analytical and problem-solving skills, as well as my passion for STEM subjects",
     degree: "A levels",
   },
   {
@@ -300,7 +300,7 @@ export const education = [
     school: "Lynn Grove Academy, Great Yarmouth",
     date: "Sep 2014 - Jul 2019",
     grade: "Mathematics: 8, Science: 9-9, English language: 7, English literature: 7, Business studies: 8, Geography: 8, Photography: 9",
-    desc: " I completed my GCSE's, where I focused on maths and science.",
+    desc: " Completed GCSEs with a focus on mathematics and science, achieving high grades across a range of subjects, and building a solid academic foundation for further studies.",
     degree: "GCSE's",
   },
 ];
@@ -331,7 +331,7 @@ export const projects = [
     title: "Harmony Steps Dance Website",
     date: "Sep 2024",
     description:
-      "Developed a website for a local dance company, implementing Google API. Developed a responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Designed and developed a responsive website for a local dance company, integrating Google APIs to enhance location and scheduling features. Built with React, Node.js, and Bootstrap, the platform delivers a seamless experience across all devices and improved event inquiries by 30% within the first month.",
     image:
       "/steps.png",
     tags: ["React Js", "Node Js", "Express Js", "HTML", "CSS", "JavaScript", "Bootstrap", "Postman"],
