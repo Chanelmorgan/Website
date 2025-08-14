@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a driven and adaptable individual, excited to embrace new challenges. Passionate about learning, I am committed to delivering exceptional results. With a positive outlook and a growth-oriented mindset, I am eager to contribute meaningfully and accomplish impactful goals.",
+    "I am a driven and adaptable professional with a passion for continuous learning and problem-solving. I thrive on new challenges and am committed to delivering high-quality results. With a positive outlook and a growth mindset, I aim to contribute meaningfully and make a lasting impact in every project I undertake.",
   github: "https://github.com/Chanelmorgan",
   resume:
     "https://drive.google.com/file/d/16xYYRy0aRZhI6fVsWnnD-zGqT6M-rWGN/view?usp=sharing",
@@ -197,9 +197,30 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "/cgi.png",
+    role: "Technology Graduate",
+    company: "CGI Space, Defense and Intelligence",
+    date: "August 2025 - Present",
+    desc: "Working in an scrum team, developing software using Java, and streamlining the process with automation.",
+    skills: [
+      "Docker",
+      "Java",
+      "SVN",
+      "Agile",
+      "Scrum",
+      "Git Lab",
+      "Swing",
+      "MongoDB",
+      "SQL",
+      "Jira",
+    ],
+    
+  },
+  {
+    id: 0,
     img: "/airbus-logo.png",
     role: "Software Developer Intern",
-    company: "Airbus Defence and Space",
+    company: "Airbus Defense and Space",
     date: "July 2023 - August 2024",
     desc: "Working in an scrum team, developing software using Java, and streamlining the process with automation.",
     skills: [
@@ -242,7 +263,7 @@ export const experiences = [
     img: "/uea.webp",
     role: "Teaching Assistant",
     company: "University of East Anglia",
-    date: "Sep 2024 - Present",
+    date: "Sep 2024 - Jan 2025",
     desc: "Assisted students on topics such as agile, waterfall, use cases, requirements, ethics and security.",
     skills: [
       "Leadership",
